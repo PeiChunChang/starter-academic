@@ -43,7 +43,7 @@ url_source: ""
 url_video: ""
 title: "Local Wavelet Acoustic Pattern: A Novel Time–Frequency Descriptor for
   Birdsong Recognition"
-doi: ""
+doi: 10.1109/TMM.2018.2834866
 featured: true
 tags: []
 projects: []
