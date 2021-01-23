@@ -37,3 +37,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Pei-Chun Chang received the B.S. and M.S. degrees in computer science and information engineering from Chung Hua University, Hsinchu, Taiwan, in 2015 and 2017, respectively. She is currently working toward the Doctoral degree in computer science at the National Chiao Tung University, Hsinchu, Taiwan. Her research interests include image processing, audio processing, biomedical signal processing, pattern recognition, computer vision, and deep learning.
