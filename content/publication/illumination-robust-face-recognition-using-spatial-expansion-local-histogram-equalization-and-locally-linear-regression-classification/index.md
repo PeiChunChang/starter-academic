@@ -10,6 +10,7 @@ authors:
   - Chang-Hsing Lee
   - Cheng-Chang Lien
   - Chin-Chuan Han
+doi: 10.1109/CCOMS.2018.8463262
 publication: "2018 3rd IEEE International Conference on Computer and Communication Systems "
 publication_short: ICCCS
 abstract: Robust face recognition under illumination variations is a critical
@@ -26,9 +27,9 @@ abstract: Robust face recognition under illumination variations is a critical
 draft: false
 featured: true
 image:
-  filename: screenshot-from-2021-01-12-22-45-22.png
+  filename: 擷取2.png
   focal_point: Smart
   preview_only: false
 summary: ""
-date: 2021-01-12T14:43:16.661Z
+date: 2018-04-27T14:43:16.661Z
 ---
